@@ -1,0 +1,4 @@
+[submodule "DevOps"]
+	path = DevOps
+	url = https://github.com/GowthamiPandu/DevOps1.git
+	branch = master
